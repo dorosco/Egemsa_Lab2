@@ -1,2 +1,2 @@
-# Egemsa_Lab1
-Laboratorio 1 del Curso a EGEMSA (Junio 2024)
+# Egemsa_Lab2
+Laboratorio 2 del Curso a EGEMSA (Junio 2024)
